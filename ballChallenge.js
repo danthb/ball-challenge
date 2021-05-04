@@ -75,4 +75,4 @@ function moveBall() {
 
 }
 }
-setInterval(moveBall, 5);
+setInterval(moveBall, 10);
